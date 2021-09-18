@@ -1,3 +1,10 @@
 body {
     background-color: #cfd9df;
 }
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(192, 57, 43, 1);
+}
